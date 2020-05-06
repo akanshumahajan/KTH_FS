@@ -2,8 +2,6 @@
 import sys
 import os
 import math
-import rospy
-import numpy as np
 
 class Bicyclemodel():
 
