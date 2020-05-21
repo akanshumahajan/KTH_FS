@@ -89,3 +89,10 @@ class Bicyclemodel():
     def get_state(self):
 
         return self.state
+
+# if __name__ == '__main__':
+
+#     state = Bicyclemodel()
+#     state.init_state()
+#     current_state = state.update()
+#     # print(current_state)
